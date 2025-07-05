@@ -15,6 +15,30 @@ A data-driven Flask web app that generates optimized travel itineraries based on
 
 ---
 
+## 💻 Usage
+
+### 1. Clone the repository
+```
+git clone https://github.com/Apoorva-Satakolla/Smart_Travelling_Plan.git
+cd Smart-Travelling-Plan
+```
+### 2. Run the Flask app
+```
+python new1.py
+```
+Open your browser and go to:
+👉 http://127.0.0.1:5000
+
+### 3. How It Works
+
+1. Select a city, preferred categories, and number of places per day
+
+2. The app filters and ranks places, then clusters them using KMeans
+
+3. Displays a personalized day-wise plan along with map visualizations
+
+
+
 ## 📸 Screenshots
 
 > Enter city name, select categories, specify no. of places per day and no. of days.
