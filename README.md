@@ -16,3 +16,11 @@ A data-driven Flask web app that generates optimized travel itineraries based on
 ---
 
 ## 📸 Screenshots
+
+> Enter city name, select categories, specify no. of places per day and no. of days.
+![Travel Itinerary Planner](https://github.com/Apoorva-Satakolla/Smart_Travelling_Plan/blob/cbd6f90b36abbd2a365e7477203c5da04831ec7a/s1.png)
+
+> List of suggested places with details and location clusters.
+(https://github.com/Apoorva-Satakolla/Smart_Travelling_Plan/blob/cbd6f90b36abbd2a365e7477203c5da04831ec7a/s2.png)
+(https://github.com/Apoorva-Satakolla/Smart_Travelling_Plan/blob/cbd6f90b36abbd2a365e7477203c5da04831ec7a/s3.png)
+
